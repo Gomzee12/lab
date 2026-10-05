@@ -1,5 +1,3 @@
 hlo
-git
-how r u 
-why
+
 
